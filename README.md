@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/Ravi8972/Ravi8972/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Raviranjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
